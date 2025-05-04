@@ -18,7 +18,8 @@ Es wird die Mod-Installations-App ModRinth benötigt, vergleichbar mit z.B. Curs
 
 Link: [https://modrinth.com/app](https://modrinth.com/app)
 
-Installieren, einloggen und dann die ModPack Datei [hier herunterladen](https://github.com/Timwun/TribeCraft/raw/refs/heads/main/TribeCraft%201.0.1.mrpack).
+Installieren, einloggen und dann die ModPack Datei [hier herunterladen](https://github.com/Timwun/TribeCraft/raw/refs/heads/main/TribeCraft%201.0.1.mrpack) und dort importieren!
+Danach starten, der Server ist schon voreingetragen, es gibt auch schon einige ShaderPacks und ein TexturePack (Faithful).
 
 ## Regeln
 
