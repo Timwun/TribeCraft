@@ -39,3 +39,9 @@ Solltet ihr euch mal ungerecht behandelt fühlen, meldet euch bitte bei mir (Shi
 Das gleiche gilt für Diebstahl, bitte fragt den anderen um Erlaubnis ob ihr Items aus Kisten, Farmen etc. entwenden dürft. 
 
 Für Regelbruch wird es entsprechende Strafen nach ausmaß des bruches geben.
+
+## Commands
+
+Es gibt ein paar coole Commands:
+* `/trigger sit` <- Lässt euch hinsetzen
+* `/trigger color` <- Damit könnt ihr euch eine Farbe im Chat zuweisen 
