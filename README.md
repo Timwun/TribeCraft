@@ -8,7 +8,9 @@ Weshalb gibt es nun aber ein ModPack?
 
 Das ModPack enthält Client-seitige Mods, das heißt, es sind Mods, die das Spielerlebnis (prominentes Beispiel ShaderMod) verändern. Die enthaltenden Mods fügen Shader, Zoom-fähigkeit, Mini-Map, performance verbesserungen, Sound-veränderungen, allgemeine Verbesserungen und ganz wichtig einen VoiceMod (Sprachchat) hinzu.
 
-Der Sprachchat ist der einzige Mod, den man benötigt um auf dem Server mitspielen zu können. Welches folgenden Grund hat: Es soll die Kommunikation, Interaktion und das Miteinander verbessern. Es soll dazu dienen, dass man nicht sich in Gruppen auf Discord, Teamspeak etc. findet und Handel, gemeinsame Projekte und besuche vereinfachen. 
+Der Sprachchat ist der einzige Mod, den man benötigt um auf dem Server mitspielen zu können. Welches folgenden Grund hat: Es soll die Kommunikation, Interaktion und das Miteinander verbessern. Es soll dazu dienen, dass man nicht sich in Gruppen auf Discord, Teamspeak etc. findet und Handel, gemeinsame Projekte und besuche vereinfachen.
+
+Mit anderen Spielern zu handeln oder attraktionen zu bauen ist ausdrücklich erwünscht!
 
 ## Installation
 
