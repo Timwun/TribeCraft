@@ -29,7 +29,7 @@ Verboten sind natürlich:
 2. Hack-Clients (Cheats wie x-ray etc.)
 3. Rassismus und harte Beleidigungen
 4. Griefing
-5. Den Server für länger als eine Minute in eine Zustand der Unspielbarkeit bringen, also Laggs / niedrige TPS (zum Beispiel durch übertriebene Tierfarmen, platzierte Boote etc.)
+5. Den Server für länger als eine Minute in einen Zustand der Unspielbarkeit bringen, also Laggs / niedrige TPS (zum Beispiel durch übertriebene Tierfarmen, platzierte Boote etc.)
 
 Trolling ist im gewissen Maße erlaubt, es soll aber niemanden den kompletten Spielspaß verderben.
 Das heißt, dass man nicht jemanden seine komplette Bude mit TNT wegbomben soll, nur, weil Er dich einen Berg runtergeboxt hat und dadurch du gestorben bist oder, dass man wegen ein paar Hühnern in seinem Haus gleich das andere Haus vom Verusacher verwüstet. Ich hoffe ihr versteht was ich meine, ansonsten meldet euch gerne, wenn ihr wissen wollt, ob eure Rache aktionen im Rahmen liegen.
