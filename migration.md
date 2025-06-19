@@ -1,5 +1,7 @@
 # Migration from 1.21.5 to 1.21.6
 
+Download: https://modrinth.com/modpack/tribecraft/versions
+
 Schritte:
 1. Modrinth öffnen und TribeCraft 1.21.5 anklicken (nicht starten!)
 2. Dann das drei Punkte Menu neben dem `Play` button drücken und dort auf `Open folder`
